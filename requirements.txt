@@ -1,1 +1,6 @@
+numpy
+matplotlib
+cadquery
+trimesh
+torch
 
